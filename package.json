@@ -2,6 +2,7 @@
   "name": "librephotos-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/librephotos",
   "scripts": {
     "lint:warn": "eslint --cache \"src/**\"",
     "lint:error": "eslint --cache --quiet \"src/**\"",
